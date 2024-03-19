@@ -20,3 +20,13 @@ A dendrogram is plotted using hierarchical clustering to visualize the distance 
 
 ## Outcome
 By clustering cricket player performance data, the project aims to uncover distinct player segments based on their batting statistics. This analysis can provide valuable insights for team management, talent identification, and strategic decision-making in cricket.
+
+## Libraries Used:
+
+- numpy
+- pandas
+- matplotlib.pyplot
+- seaborn
+- datetime
+- sklearn
+- scipy.cluster.hierarchy
